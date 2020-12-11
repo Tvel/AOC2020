@@ -4,7 +4,7 @@ using System.Linq;
 
 using Microsoft.VisualBasic.CompilerServices;
 
-namespace Day1
+namespace Day01
 {
     class Program
     {

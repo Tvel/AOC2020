@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection.Emit;
 
-namespace Day8
+namespace Day08
 {
     class Program
     {

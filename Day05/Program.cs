@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.IO;
 
-namespace Day5
+namespace Day05
 {
     class Program
     {

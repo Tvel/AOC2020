@@ -2,7 +2,7 @@
 using System.IO;
 using System.IO.MemoryMappedFiles;
 
-namespace Day3
+namespace Day03
 {
     class Program
     {
