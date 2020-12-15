@@ -2,9 +2,6 @@
 using System.Dynamic;
 using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices.ComTypes;
-
-using Microsoft.VisualBasic.FileIO;
 
 namespace Day11
 {
